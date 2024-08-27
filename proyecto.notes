@@ -1,0 +1,27 @@
+[ ] Registro de Usuarios: En la ruta de registro (/signup), crea una función que permita a los usuarios registrarse y crear cuentas. Almacenar las contraseñas de manera segura utilizando técnicas de hash y sal.
+
+[ ] Implementar Inicio de Sesión: En la ruta de inicio de sesión (/login), crea una función que verifique las credenciales del usuario. Si las credenciales son válidas, genera un token JWT y responde con él.
+
+[ ] Generar Tokens JWT: Cuando el usuario inicia sesión con éxito, genera un token JWT con información relevante, como el ID de usuario y, opcionalmente, el rol.
+
+[ ] Enviar el Token JWT al Cliente: Envía el token JWT al cliente, generalmente como una respuesta en formato JSON.
+
+Autorización con JWT:
+
+[ ] Proteger Recursos: Identifica las rutas o recursos que deben estar protegidos y requerir un token JWT válido para acceder a ellos.
+
+[ ] Crear Middleware de Autorización: Crea un middleware que verifique la validez del token JWT en las solicitudes entrantes. Puedes extraer y verificar el token del encabezado Authorization de la solicitud.
+
+[ ] Aplicar Middleware de Autorización: Aplica el middleware de autorización a las rutas o recursos que deseas proteger. Esto se hace generalmente mediante app.use() en Express.js.
+
+[ ] Manejo de Errores de Autorización: Implementa un manejo adecuado de errores de autorización. Si un usuario intenta acceder a un recurso sin un token JWT válido, debes proporcionar una respuesta adecuada (por ejemplo, código de estado 401 - No autorizado).
+
+[ ] Pruebas de Autorización: Realiza pruebas para asegurarte de que el sistema de autorización funcione correctamente. Asegúrate de que solo los usuarios autenticados y autorizados puedan acceder a los recursos protegidos.
+
+[ ] Ten en cuenta que deberás configurar la firma y la clave secreta para generar y verificar los tokens JWT. También puedes definir la expiración de los tokens para mayor seguridad.
+
+[ ] Si tienes alguna pregunta específica o necesitas ayuda con un paso en particular, no dudes en preguntar.
+
+
+
+

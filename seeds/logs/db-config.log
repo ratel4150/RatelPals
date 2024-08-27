@@ -1,0 +1,43 @@
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:20:00"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:29:34"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:29:39"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:47:42"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:47:48"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:48:39"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:48:44"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:52:44"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:52:49"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:53:49"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:53:54"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:54:23"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:54:28"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:55:46"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:55:52"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:59:47"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 14:59:53"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:01:06"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:01:13"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:01:38"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:01:45"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:03:00"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:03:07"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:05:11"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:05:19"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:14:02"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:14:36"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:27:23"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:27:54"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:28:14"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:28:24"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:29:04"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:29:33"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:30:21"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:30:52"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:31:09"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:31:39"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:32:11"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:32:43"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:37:25"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:37:57"}
+{"level":"info","message":"Conexión a MongoDB establecida en mongodb+srv://prueba:1@cluster0.buo0t.mongodb.net/taxiApp?retryWrites=true&w=majority","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:43:38"}
+{"level":"info","message":"Conexión a MongoDB cerrada","module":"database-connection","service":"admin-service","timestamp":"2024-08-10 15:44:10"}
